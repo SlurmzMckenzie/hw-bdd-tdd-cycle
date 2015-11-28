@@ -68,7 +68,8 @@ class MoviesController < ApplicationController
 			redirect_to root_path
 		else
 			index
-			@movies = Movie.where(:director => @movie.director)
+			#@movies = Movie.where(:director => @movie.director)
+			@movies = Movie.same_director(@movie)
 			render 'index'
 		end
 	end
