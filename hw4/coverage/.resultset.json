@@ -1,7 +1,7 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/Users/Brendan/projects/hw-bdd-tdd-cycle/hw4/app/models/movie.rb": [
+      "/vagrant/hw-bdd-tdd-cycle/hw4/app/models/movie.rb": [
         1,
         1,
         16,
@@ -12,7 +12,7 @@
         null,
         null
       ],
-      "/Users/Brendan/projects/hw-bdd-tdd-cycle/hw4/app/controllers/movies_controller.rb": [
+      "/vagrant/hw-bdd-tdd-cycle/hw4/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -92,16 +92,16 @@
         null,
         null
       ],
-      "/Users/Brendan/projects/hw-bdd-tdd-cycle/hw4/app/controllers/application_controller.rb": [
+      "/vagrant/hw-bdd-tdd-cycle/hw4/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/Users/Brendan/projects/hw-bdd-tdd-cycle/hw4/app/helpers/application_helper.rb": [
+      "/vagrant/hw-bdd-tdd-cycle/hw4/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/Brendan/projects/hw-bdd-tdd-cycle/hw4/app/helpers/movies_helper.rb": [
+      "/vagrant/hw-bdd-tdd-cycle/hw4/app/helpers/movies_helper.rb": [
         1,
         null,
         null,
@@ -110,6 +110,6 @@
         null
       ]
     },
-    "timestamp": 1449132298
+    "timestamp": 1449140513
   }
 }
